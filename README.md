@@ -141,6 +141,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search)  | Desktop app to evaluate and compare LLM models                                                    | Download    | MIT        |
 | [OMeter](https://github.com/EndoTheDev/OMeter)                       | Benchmark and compare Ollama models across local and cloud endpoints                              | pip         | MIT        |
 | [Remuda](https://github.com/magna-nz/remuda)                         | Test and tune local models with a built-in Modelfile editor                                       | Homebrew    | MIT        |
+| [TokenRace](https://github.com/ernext/tokenrace)                     | Compare inference speed (TTFT, tokens per second, RAM) across local servers on your own hardware  | pip         | MIT        |
 
 ## Libraries
 
